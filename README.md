@@ -1,2 +1,2 @@
 # CHAMPION
-Virat is champion 
+Virat is champion.
